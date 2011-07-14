@@ -13,3 +13,26 @@ src/Three20Style/*.h
 src/Three20UICommon/*.h
 src/Three20UINavigator/*.h
 src/Three20UI/*.h
+#xcode noise 
+build/*
+build/
+build*
+*.pbxuser
+*.mode1v3
+
+#old skool
+.svn
+
+*.pyc 
+*~.nib/ 
+*.perspective 
+*.perspectivev3 
+*.swp
+*~.nib
+*.xcodeproj/
+xcuserdata/
+!*.xcodeproj/project.pbxproj
+
+# OS X noise
+.DS_Store
+profile
